@@ -4,4 +4,4 @@ This organization is meant to host and maintain plugins and other projects for g
 
 📫 _How to get help:_ If you need to get help with projects hosted by this org, check the mod's GitHub repository for past issues and create your own; or ask for help on the [Koikatsu!](https://discord.gg/hevygx6) and [Illusion Soft](https://discord.gg/illusionsoft) discord servers.
 
-⚠️ _If you're a modder:_ There is currently a bounty program open for bugfixes and improvements to all repositories under [IllusionMods](https://github.com/IllusionMods). For details, either check pins in the #mod-programming channel on the Koikatsu discord server, or send DMs to ManlyMarco.
+⚠️ _If you're a modder:_ There is currently a bounty program open for bugfixes and improvements to all repositories under IllusionMods. For details, either check pins in the #mod-programming channel on the Koikatsu discord server, or send DMs to ManlyMarco.
